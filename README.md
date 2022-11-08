@@ -9,3 +9,6 @@ Purpose of this application is to have a plan whenever you decide to exercise ou
 
 # Strength_page
 ![Strength_page](https://user-images.githubusercontent.com/105179017/200676212-3772a50b-1844-448a-87bb-3ded40764934.png)
+
+# Balance_page
+![Balance_page](https://user-images.githubusercontent.com/105179017/200676373-ef487085-2111-4527-94c8-94f1a09207e4.png)
