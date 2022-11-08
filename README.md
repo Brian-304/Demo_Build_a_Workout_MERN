@@ -12,3 +12,6 @@ Purpose of this application is to have a plan whenever you decide to exercise ou
 
 # Balance_page
 ![Balance_page](https://user-images.githubusercontent.com/105179017/200676373-ef487085-2111-4527-94c8-94f1a09207e4.png)
+
+# Flexibility_page
+![Flexibility_page](https://user-images.githubusercontent.com/105179017/200676555-d9ada62d-1d7d-4676-afbc-e57d7144d650.png)
