@@ -6,3 +6,6 @@ Purpose of this application is to have a plan whenever you decide to exercise ou
 
 # Endurance_page
 ![Endurance_page](https://user-images.githubusercontent.com/105179017/200676053-6409a60d-0859-4651-ac90-3717e06728d3.png)
+
+# Strength_page
+![Strength_page](https://user-images.githubusercontent.com/105179017/200676212-3772a50b-1844-448a-87bb-3ded40764934.png)
